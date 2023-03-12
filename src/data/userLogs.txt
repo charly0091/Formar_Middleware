@@ -1,0 +1,30 @@
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /favicon.ico
+
+ El usuario ingreó a la ruta: /products
+
+ El usuario ingreó a la ruta: /products/detail
+
+ El usuario ingreó a la ruta: /users/login
+
+ El usuario ingreó a la ruta: /admin?admin=Greta
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /users/login
+
+ El usuario ingreó a la ruta: /admin?admin=lisa
+
+ El usuario ingreó a la ruta: /
+
+ El usuario ingreó a la ruta: /users/login
+
+ El usuario ingreó a la ruta: /admin?admin=Greta
+
+ El usuario ingreó a la ruta: /products/edit
+
+ El usuario ingreó a la ruta: /products/css/error.css
+
+ El usuario ingreó a la ruta: /
